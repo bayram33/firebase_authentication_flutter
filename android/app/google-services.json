@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "51968627663",
+    "project_id": "caseone-4076f",
+    "storage_bucket": "caseone-4076f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51968627663:android:866cbe5dd7a475b3a238ba",
+        "android_client_info": {
+          "package_name": "com.example.caseone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLOHsfs7CUogidgvn6fBQnK47_KyZsAHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
